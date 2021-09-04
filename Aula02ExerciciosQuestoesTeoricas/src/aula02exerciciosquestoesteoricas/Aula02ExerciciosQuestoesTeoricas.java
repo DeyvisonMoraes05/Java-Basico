@@ -111,5 +111,4 @@ public class Aula02ExerciciosQuestoesTeoricas {
         d) f - V - V - F
         */
     }
-    
 }
