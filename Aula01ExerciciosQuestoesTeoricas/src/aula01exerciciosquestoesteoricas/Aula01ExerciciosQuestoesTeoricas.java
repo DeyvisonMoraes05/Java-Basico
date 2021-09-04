@@ -43,7 +43,6 @@ public class Aula01ExerciciosQuestoesTeoricas {
         (E) Visual Basic.
         */
         
-        
         /* QUESTÃO 3
         Qual é o utilitário responsável por gerar, a partir de um programa 
         escrito em uma liunguagem de alto nível, um programa em linguagem
