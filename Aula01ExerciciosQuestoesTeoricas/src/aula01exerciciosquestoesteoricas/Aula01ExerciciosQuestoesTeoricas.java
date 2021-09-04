@@ -7,7 +7,7 @@ package aula01exerciciosquestoesteoricas;
 
 /**
  *
- * @DeyvisonMoraes
+ * @author Deyvison Moraes
  */
 public class Aula01ExerciciosQuestoesTeoricas {
 
