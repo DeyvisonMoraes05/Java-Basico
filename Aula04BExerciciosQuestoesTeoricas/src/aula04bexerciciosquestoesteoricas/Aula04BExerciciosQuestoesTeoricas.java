@@ -1,5 +1,7 @@
 package aula04bexerciciosquestoesteoricas;
 
+@author Deyvison Moraes
+
 public class Aula04BExerciciosQuestoesTeoricas {
 
     public static void main(String[] args) {
