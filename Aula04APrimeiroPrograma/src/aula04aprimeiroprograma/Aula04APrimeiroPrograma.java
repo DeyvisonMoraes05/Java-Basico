@@ -7,7 +7,7 @@ package aula04aprimeiroprograma;
 
 /**
  *
- * @author Usuario
+ * @author Deyvison Moraes
  */
 public class Aula04APrimeiroPrograma {
 
