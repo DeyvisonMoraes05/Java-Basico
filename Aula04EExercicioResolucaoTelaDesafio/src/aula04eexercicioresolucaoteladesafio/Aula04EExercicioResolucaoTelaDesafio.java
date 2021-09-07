@@ -3,6 +3,8 @@ package aula04eexercicioresolucaoteladesafio;
 import java.awt.Dimension;
 import java.awt.Toolkit;
 
+// @author Deyvison Moraes
+
 public class Aula04EExercicioResolucaoTelaDesafio {
 
     public static void main(String[] args) {
