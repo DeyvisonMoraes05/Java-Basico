@@ -9,7 +9,7 @@ import java.util.Date;
 
 /**
  *
- * @author Usuario
+ * @author Deyvison Moraes
  */
 public class TelaRelogio extends javax.swing.JFrame {
 
