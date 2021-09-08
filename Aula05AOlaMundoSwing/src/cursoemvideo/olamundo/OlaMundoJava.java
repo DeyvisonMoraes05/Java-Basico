@@ -7,7 +7,7 @@ package cursoemvideo.olamundo;
 
 /**
  *
- * @author Usuario
+ * @author Deyvison Moraes
  */
 public class OlaMundoJava extends javax.swing.JFrame {
 
