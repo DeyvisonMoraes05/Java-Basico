@@ -7,7 +7,7 @@ package aula6questoes;
 
 /**
  *
- * @author Usuario
+ * @author Deyvison Moraes
  */
 public class Aula6Questoes {
 
