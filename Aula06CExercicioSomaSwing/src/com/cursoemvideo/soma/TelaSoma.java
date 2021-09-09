@@ -7,7 +7,7 @@ package com.cursoemvideo.soma;
 
 /**
  *
- * @author Usuario
+ * @author Deyvison Moraes
  */
 public class TelaSoma extends javax.swing.JFrame {
 
