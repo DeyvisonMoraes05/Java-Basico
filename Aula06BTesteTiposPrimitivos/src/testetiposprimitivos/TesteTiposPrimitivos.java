@@ -7,7 +7,7 @@ package testetiposprimitivos;
 
 /**
  *
- * @author Usuario
+ * @author Deyvison Moraes
  */
 public class TesteTiposPrimitivos {
 
