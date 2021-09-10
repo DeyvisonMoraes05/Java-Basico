@@ -7,7 +7,7 @@ package com.cursoemvideo.operadores;
 
 /**
  *
- * @author Usuario
+ * @author Deyvison Moraes
  */
 public class TelaValores1 extends javax.swing.JFrame {
 
