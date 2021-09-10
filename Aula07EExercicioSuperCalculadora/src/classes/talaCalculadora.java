@@ -194,12 +194,12 @@ public class talaCalculadora extends javax.swing.JFrame {
         // TODO add your handling code here:
         int numero = Integer.parseInt(txtNumero.getValue().toString());
         
-        // CALCULAR O RESTO DA DIVISÃO POR 2
+        // CALCULAR O RESTO DA DIVISÃO POR 2, FUNÇÕES INTERNAS
         int resto = numero % 2;
         lblResto.setText(Integer.toString(resto));
         
         
-        // CALCULAR A ELEVAÇÃO AO CUBO 3
+        // CALCULAR A ELEVAÇÃO AO CUBO 3, FUNÇÕES INTERNAS
         double cubo = Math.pow(numero, 3);
         lblCubo.setText(Double.toString(cubo));
         
