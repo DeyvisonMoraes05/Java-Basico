@@ -7,7 +7,7 @@ package operadoresaritmeticos;
 
 /**
  *
- * @author Usuario
+ * @author Deyvison Moraes
  */
 public class OperadoresAritmeticos {
 
