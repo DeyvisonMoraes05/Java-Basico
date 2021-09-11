@@ -9,7 +9,7 @@ import java.awt.Font;
 
 /**
  *
- * @author Usuario
+ * @author Deyvison Moraes
  */
 public class TelaJogo extends javax.swing.JFrame {
 
