@@ -7,7 +7,7 @@ package aulacomparacaostring;
 
 /**
  *
- * @author Usuario
+ * @author Deyvison Moraes
  */
 public class AulaComparacaoString {
 
