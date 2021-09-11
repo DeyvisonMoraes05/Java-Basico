@@ -7,7 +7,7 @@ package aula8operadoreslogicos;
 
 /**
  *
- * @author Usuario
+ * @author Deyvison Moraes
  */
 public class Aula8OperadoresLogicos {
 
