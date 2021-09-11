@@ -7,7 +7,7 @@ package pacoteidade;
 
 /**
  *
- * @author Usuario
+ * @author Deyvison Moraes
  */
 public class TelaIdade extends javax.swing.JFrame {
 
