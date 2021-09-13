@@ -7,7 +7,7 @@ package com.cursoemvideo.parimpar;
 
 /**
  *
- * @author Usuario
+ * @author Deyvison Moraes
  */
 public class TelaParImpar extends javax.swing.JFrame {
 
