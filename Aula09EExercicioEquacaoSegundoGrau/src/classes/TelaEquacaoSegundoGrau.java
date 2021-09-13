@@ -7,7 +7,7 @@ package classes;
 
 /**
  *
- * @author Usuario
+ * @author Deyvison Moraes
  */
 public class TelaEquacaoSegundoGrau extends javax.swing.JFrame {
 
