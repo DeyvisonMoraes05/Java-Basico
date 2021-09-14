@@ -16,7 +16,7 @@ public class TelaTriangulo extends javax.swing.JFrame {
      */
     public TelaTriangulo() { // MÉTODO CONSTRUTOR DA CLASSE
         initComponents();
-        painelResultado.setVisible(false); // PARA ESCONDER O PAINEL
+        painelResultado.setVisible(false); // PARA ESCONDER O PAINEL ASSIM QUE O PROGRAMA FOR EXECUTADO
     }
 
     /**
