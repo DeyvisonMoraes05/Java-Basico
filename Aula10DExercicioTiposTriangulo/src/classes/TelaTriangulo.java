@@ -7,7 +7,7 @@ package classes;
 
 /**
  *
- * @author Usuario
+ * @author Deyvison Moraes
  */
 public class TelaTriangulo extends javax.swing.JFrame {
 
