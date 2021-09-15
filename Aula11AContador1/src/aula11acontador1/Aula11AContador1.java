@@ -7,7 +7,7 @@ package aula11acontador1;
 
 /**
  *
- * @author Usuario
+ * @author Deyvison Moraes
  */
 public class Aula11AContador1 {
 
