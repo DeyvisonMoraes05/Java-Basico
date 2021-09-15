@@ -7,7 +7,7 @@ package contador;
 
 /**
  *
- * @author Usuario
+ * @author Deyvison Moraes
  */
 public class TelaContador extends javax.swing.JFrame {
 
