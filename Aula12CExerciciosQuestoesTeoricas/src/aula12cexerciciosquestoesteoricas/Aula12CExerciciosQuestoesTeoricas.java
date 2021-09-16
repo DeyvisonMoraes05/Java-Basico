@@ -7,7 +7,7 @@ package aula12cexerciciosquestoesteoricas;
 
 /**
  *
- * @author Usuario
+ * @author Deyvison Moraes
  */
 public class Aula12CExerciciosQuestoesTeoricas {
 
