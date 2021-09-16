@@ -9,7 +9,7 @@ import javax.swing.JOptionPane; // PAINÉIS JA PRONTOS, TELAS PRONTAS
 
 /**
  *
- * @author Usuario
+ * @author Deyvison Moraes
  */
 public class Aula12DExercicioRepita {
 
