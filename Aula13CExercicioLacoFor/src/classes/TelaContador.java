@@ -9,7 +9,7 @@ import javax.swing.DefaultListModel;
 
 /**
  *
- * @author Usuario
+ * @author Deyvison Moraes
  */
 public class TelaContador extends javax.swing.JFrame {
 
