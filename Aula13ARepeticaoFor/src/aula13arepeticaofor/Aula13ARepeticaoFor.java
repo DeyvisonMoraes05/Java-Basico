@@ -7,7 +7,7 @@ package aula13arepeticaofor;
 
 /**
  *
- * @author Usuario
+ * @author Deyvison Moraes
  */
 public class Aula13ARepeticaoFor {
 
