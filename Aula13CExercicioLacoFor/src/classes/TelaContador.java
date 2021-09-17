@@ -207,7 +207,7 @@ public class TelaContador extends javax.swing.JFrame {
             lista.addElement(cont);
         }
         
-        // MOSTRANDO O RESULTADO ADICIONANDO A "listaContar" O RESULTADO O OBJETO "lista"
+        // MOSTRANDO O RESULTADO ADICIONANDO A "listaContar" O RESULTADO DO OBJETO "lista"
         listaContar.setModel(lista);
     }//GEN-LAST:event_btnContarActionPerformed
 
