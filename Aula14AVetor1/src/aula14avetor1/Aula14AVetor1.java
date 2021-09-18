@@ -7,7 +7,7 @@ package aula14avetor1;
 
 /**
  *
- * @author Usuario
+ * @author Deyvison Moraes
  */
 public class Aula14AVetor1 {
 
