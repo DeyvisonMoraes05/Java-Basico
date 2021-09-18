@@ -7,7 +7,7 @@ package aula14bvetor2;
 
 /**
  *
- * @author Usuario
+ * @author Deyvison Moraes
  */
 public class Aula14BVetor2 {
 
