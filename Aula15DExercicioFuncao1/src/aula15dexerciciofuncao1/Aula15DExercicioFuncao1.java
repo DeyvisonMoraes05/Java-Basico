@@ -7,7 +7,7 @@ package aula15dexerciciofuncao1;
 
 /**
  *
- * @author Usuario
+ * @author Deyvison Moraes
  */
 public class Aula15DExercicioFuncao1 {
 
