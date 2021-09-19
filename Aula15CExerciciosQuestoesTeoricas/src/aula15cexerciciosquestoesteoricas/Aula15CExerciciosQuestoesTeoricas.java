@@ -7,7 +7,7 @@ package aula15cexerciciosquestoesteoricas;
 
 /**
  *
- * @author Usuario
+ * @author Deyvison Moraes
  */
 public class Aula15CExerciciosQuestoesTeoricas {
             static int f1 (int n) {
